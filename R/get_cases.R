@@ -1,4 +1,4 @@
-#' Download cases from Go.Data API
+#' Download cases from Go.Data
 #'
 #' A function to retrieve the case data for a
 #' specific `outbreak_id`.
